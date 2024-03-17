@@ -1,0 +1,53 @@
+[
+    {
+      "ID": "123456",
+      "CoverPicture": "../image/c-1 (1).jpg",
+      "Title": "The Secret Garden",
+      "Author": "Pranto Das",
+      "AuthorImage": "../image/a-1.png",
+      "PostedDate": "2024-03-08",
+      "ReadingTimes": 235,
+      "Hashtags": ["#fiction", "#classic", "#garden"]
+    },
+    {
+      "ID": "789012",
+      "CoverPicture": "../image/c-1 (2).jpg",
+      "Title": "Beyond the Horizon",
+      "Author": "Alexander Smith",
+      "AuthorImage": "../image/a-2.png",
+      "PostedDate": "2024-03-07",
+      "ReadingTimes": 432,
+      "Hashtags": ["#adventure", "#fantasy", "#mystery"]
+    },
+    {
+      "ID": "345678",
+      "CoverPicture": "../image/c-1 (3).jpg",
+      "Title": "Symphony of Secrets",
+      "Author": "Sophia Rodriguez",
+      "AuthorImage": "../image/a-3.png",
+      "PostedDate": "2024-03-06",
+      "ReadingTimes": 123,
+      "Hashtags": ["#music", "#romance", "#mystery"]
+    },
+    {
+      "ID": "901234",
+      "CoverPicture": "../image/c-1 (4).jpg",
+      "Title": "Echoes of Eternity",
+      "Author": "David Brown",
+      "AuthorImage": "../image/a-4.png",
+      "PostedDate": "2024-03-05",
+      "ReadingTimes": 567,
+      "Hashtags": ["#science-fiction", "#time", "#space"]
+    },
+    {
+      "ID": "567890",
+      "CoverPicture": "../image/c-1 (5).jpg",
+      "Title": "Whispers in the Wind",
+      "Author": "Olivia White",
+      "AuthorImage": "../image/a-5.png",
+      "PostedDate": "2024-03-04",
+      "ReadingTimes": 321,
+      "Hashtags": ["#poetry", "#inspiration", "#nature"]
+    }
+  ]
+  
